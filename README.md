@@ -1,4 +1,4 @@
-# Board Game Path Finder
+# Board Game Optimal Path Finder
 A Path Finder for a board game called "tower of savior" (or a similar game "pazudora")
 
 **I. Backgraound** : 
