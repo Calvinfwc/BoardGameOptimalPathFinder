@@ -1,5 +1,5 @@
 # Board Game Optimal Path Finder
-A Path Finder for a board game called "tower of savior" (or a similar game "pazudora")
+A Path Finder for a board game called "tower of savior" (or a similar game "pazudora") **(see section V for a video)**
 
 **I. Backgraound** : 
 In "tower of savior" player will be given a 5*6 board ("in" board) . The board has 30 runes on it , there're 6 types of runes . Player can pick any initial rune (lead) and move it around (in any of the 8 directions) until time's up . 
